@@ -1,0 +1,16 @@
+{
+  "name": "gospel-docker-extend",
+  "version": "1.0.0",
+  "description": "", 
+  "main": "extend.js",
+  "dependencies": {
+    "shelljs": "^0.7.4",
+    "yargs": "^5.0.0"
+  },  
+  "devDependencies": {}, 
+  "author": "xieyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leinue/gospel-docker/issues"
+  }
+}
